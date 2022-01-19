@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1628522275 source:d:\computerscience\nand2tetris\nand2tetris\projects\07\vmtranslator\main.cpp
+	<stdio.h>
+	<cstring>
+	<iostream>
+	<io.h>
+
